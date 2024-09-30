@@ -1,0 +1,47 @@
+{
+  "name": "Freax #4",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4.png",
+  "dna": "ba1ff84a4bc498fbe00418208d624555f706d025",
+  "edition": 4,
+  "date": 1727684790511,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Neon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bowl cut"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Transparent Tshirt"
+    },
+    {
+      "trait_type": "Left earring",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Right earring",
+      "value": "Gold Earring With a Cross"
+    },
+    {
+      "trait_type": "Rare attributes",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Poker Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

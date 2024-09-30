@@ -1,0 +1,47 @@
+{
+  "name": "Freax #3",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "dna": "584eaeaa9b00944357b596a88a1d68534981f2a7",
+  "edition": 3,
+  "date": 1727684790024,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "GreenBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Neon Cells"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Newspaper Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Expensive Coat"
+    },
+    {
+      "trait_type": "Left earring",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Right earring",
+      "value": "Black Cartilage"
+    },
+    {
+      "trait_type": "Rare attributes",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile with Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High on Dr...gs"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

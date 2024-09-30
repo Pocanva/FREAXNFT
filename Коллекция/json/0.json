@@ -1,0 +1,47 @@
+{
+  "name": "Freax #0",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3000.png",
+  "dna": "49804d14ca948b16199450de50f8b5e993c761a1",
+  "edition": 3000,
+  "date": 1727686271963,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BluePink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Neon Cells"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curls"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Neon Biker Jacket"
+    },
+    {
+      "trait_type": "Left earring",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Right earring",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Rare attributes",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Two Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "WTF"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
