@@ -1,47 +1,43 @@
 {
-  "name": "Freax #5",
-  "description": "Remember to replace this description",
-  "image": "ipfs://NewUriToReplace/5.png",
-  "dna": "41f33023b96a19bada65482e6acb3234a7c3a354",
-  "edition": 5,
-  "date": 1727684790924,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Orange Hills"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Forearm Implant"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Short Haircut"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Spring Hoodie"
-    },
-    {
-      "trait_type": "Left earring",
-      "value": "Nothing"
-    },
-    {
-      "trait_type": "Right earring",
-      "value": "Nothing"
-    },
-    {
-      "trait_type": "Rare attributes",
-      "value": "Nothing"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Pouting Lip Piercing"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Sunglasses"
-    }
-  ],
-  "compiler": "HashLips Art Engine"
+    "name": "Freax #5",
+    "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/5.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Hills"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Forearm Implant"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Short Haircut"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spring Hoodie"
+        },
+        {
+            "trait_type": "Left earring",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Right earring",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Rare attributes",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pouting Lip Piercing"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sunglasses"
+        }
+    ]
 }

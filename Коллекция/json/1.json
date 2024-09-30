@@ -1,47 +1,43 @@
 {
-  "name": "Freax #1",
-  "description": "Remember to replace this description",
-  "image": "ipfs://NewUriToReplace/1.png",
-  "dna": "335d58218423bddbdabf74c7dabd28a48362f131",
-  "edition": 1,
-  "date": 1727684789166,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "PinkBlue"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Common"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Gradient Mohawk"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Purple Undershirt"
-    },
-    {
-      "trait_type": "Left earring",
-      "value": "Nothing"
-    },
-    {
-      "trait_type": "Right earring",
-      "value": "Two Gold Earrings"
-    },
-    {
-      "trait_type": "Rare attributes",
-      "value": "Nothing"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Kiss Me Piercing"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Scared"
-    }
-  ],
-  "compiler": "HashLips Art Engine"
+    "name": "Freax #1",
+    "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/1.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PinkBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Gradient Mohawk"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Purple Undershirt"
+        },
+        {
+            "trait_type": "Left earring",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Right earring",
+            "value": "Two Gold Earrings"
+        },
+        {
+            "trait_type": "Rare attributes",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Kiss Me Piercing"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scared"
+        }
+    ]
 }

@@ -1,47 +1,43 @@
 {
-  "name": "Freax #4",
-  "description": "Remember to replace this description",
-  "image": "ipfs://NewUriToReplace/4.png",
-  "dna": "ba1ff84a4bc498fbe00418208d624555f706d025",
-  "edition": 4,
-  "date": 1727684790511,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Green City"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Blue Neon"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Bowl cut"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Transparent Tshirt"
-    },
-    {
-      "trait_type": "Left earring",
-      "value": "Nothing"
-    },
-    {
-      "trait_type": "Right earring",
-      "value": "Gold Earring With a Cross"
-    },
-    {
-      "trait_type": "Rare attributes",
-      "value": "Nothing"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Poker Smile"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "3D Glasses"
-    }
-  ],
-  "compiler": "HashLips Art Engine"
+    "name": "Freax #4",
+    "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/4.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green City"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Neon"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Bowl cut"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Transparent Tshirt"
+        },
+        {
+            "trait_type": "Left earring",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Right earring",
+            "value": "Gold Earring With a Cross"
+        },
+        {
+            "trait_type": "Rare attributes",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Poker Smile"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D Glasses"
+        }
+    ]
 }

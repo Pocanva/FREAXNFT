@@ -1,0 +1,43 @@
+{
+    "name": "Freax #68",
+    "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/68.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Hills"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue Neon"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Clown Hair"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Neon Down Jacket"
+        },
+        {
+            "trait_type": "Left earring",
+            "value": "Nail and Cartilage"
+        },
+        {
+            "trait_type": "Right earring",
+            "value": "Nail and Cartilage"
+        },
+        {
+            "trait_type": "Rare attributes",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Golden Tooth"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Right Eye Patch"
+        }
+    ]
+}
