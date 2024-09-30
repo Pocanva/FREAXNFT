@@ -1,0 +1,43 @@
+{
+    "name": "Freax #1302",
+    "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/1302.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange City"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Small Wounds"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Fox Ears"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Overalls"
+        },
+        {
+            "trait_type": "Left earring",
+            "value": "Top Silver Rings"
+        },
+        {
+            "trait_type": "Right earring",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Rare attributes",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Open Mouth Piercing"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Cyber Glasses"
+        }
+    ]
+}

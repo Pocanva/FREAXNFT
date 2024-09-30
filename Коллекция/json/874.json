@@ -1,0 +1,43 @@
+{
+    "name": "Freax #874",
+    "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/874.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green City"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Small Wounds"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Cassette Recorder"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Neon Down Jacket"
+        },
+        {
+            "trait_type": "Left earring",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Right earring",
+            "value": "Top Gold Rings"
+        },
+        {
+            "trait_type": "Rare attributes",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Like the Teenage Mutant Ninja Turtles"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "DJ Glasses"
+        }
+    ]
+}

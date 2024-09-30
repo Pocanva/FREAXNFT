@@ -1,0 +1,43 @@
+{
+    "name": "Freax #2368",
+    "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/2368.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple City"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon Vertical"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Gradient Mohawk"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim Vest"
+        },
+        {
+            "trait_type": "Left earring",
+            "value": "Black Nail"
+        },
+        {
+            "trait_type": "Right earring",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Rare attributes",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothless"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Disco Glasses"
+        }
+    ]
+}

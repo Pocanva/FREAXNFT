@@ -1,0 +1,43 @@
+{
+    "name": "Freax #3023",
+    "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3023.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "BluePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Small Wounds"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Short Haircut"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trousers With Suspenders"
+        },
+        {
+            "trait_type": "Left earring",
+            "value": "Nail and Cartilage"
+        },
+        {
+            "trait_type": "Right earring",
+            "value": "Black Cartilage"
+        },
+        {
+            "trait_type": "Rare attributes",
+            "value": "OLD Badge"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Like the Teenage Mutant Ninja Turtles Pearcing"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Winked"
+        }
+    ]
+}

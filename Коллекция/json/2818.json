@@ -1,0 +1,43 @@
+{
+    "name": "Freax #2818",
+    "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/2818.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue Neon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Yellow Neon"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pink Uncombed Hair"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Apron"
+        },
+        {
+            "trait_type": "Left earring",
+            "value": "Leaky Cartilage"
+        },
+        {
+            "trait_type": "Right earring",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Rare attributes",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Braces"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Orange Visor"
+        }
+    ]
+}

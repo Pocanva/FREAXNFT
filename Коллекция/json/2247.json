@@ -1,0 +1,43 @@
+{
+    "name": "Freax #2247",
+    "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/2247.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Hills"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Big Wounds"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Brassiere"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Leather Jacket"
+        },
+        {
+            "trait_type": "Left earring",
+            "value": "Silver Earring With a Cross"
+        },
+        {
+            "trait_type": "Right earring",
+            "value": "Gold Earring"
+        },
+        {
+            "trait_type": "Rare attributes",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Like the Teenage Mutant Ninja Turtles Pearcing"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Hypnotized"
+        }
+    ]
+}
