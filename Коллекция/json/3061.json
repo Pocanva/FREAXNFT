@@ -1,0 +1,43 @@
+{
+    "name": "Freax #3061",
+    "description": "Man, this party stinks. I f**king hate these people",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3061.mp4",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Miami"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Jacket"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Rooster"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Red Jacket"
+        },
+        {
+            "trait_type": "Left earring",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Right earring",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Rare attributes",
+            "value": "LEGENDARY"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Beak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Reflective Lenses"
+        }
+    ]
+}
