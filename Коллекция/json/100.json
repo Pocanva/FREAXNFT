@@ -1,7 +1,8 @@
 {
-    "name": "Freax #3061",
+    "name": "Jacket",
     "description": "Man, this party stinks. I f**king hate these people",
-    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3061.gif",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3061.mp4",
+    "content_type": "video/mp4",
     "attributes": [
         {
             "trait_type": "Background",
