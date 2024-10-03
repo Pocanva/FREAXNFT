@@ -1,8 +1,7 @@
 {
     "name": "Technique",
     "description": "Besides being a DJ, I am also... A stand-up comedian, a hip-hop artist, a face-smasher...",
-    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3062.mp4",
-    "content_type": "video/mp4",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3062.gif",
     "attributes": [
         {
             "trait_type": "Background",
