@@ -1,27 +1,28 @@
 {
-    "name": "Freax #161",
-    "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
-    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/161.png",
+    "name": "Technique",
+    "description": "Besides being a DJ, I am also... A stand-up comedian, a hip-hop artist, a face-smasher...",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3062.mp4",
+    "content_type": "video/mp4",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "GreenOrange"
+            "value": "RAVE"
         },
         {
             "trait_type": "Body",
-            "value": "Wounds"
+            "value": "Technique"
         },
         {
             "trait_type": "Head",
-            "value": "Yellow Tousled Hair"
+            "value": "C.P. Goggle Hat"
         },
         {
             "trait_type": "Clothes",
-            "value": "Spring Hoodie"
+            "value": "Burberry"
         },
         {
             "trait_type": "Left earring",
-            "value": "Silver Earring With a Cross"
+            "value": "Nothing"
         },
         {
             "trait_type": "Right earring",
@@ -29,15 +30,15 @@
         },
         {
             "trait_type": "Rare attributes",
-            "value": "Nothing"
+            "value": "LEGENDARY"
         },
         {
             "trait_type": "Mouth",
-            "value": "Rare Teeth"
+            "value": "Smoking"
         },
         {
             "trait_type": "Eyes",
-            "value": "Orange Visor"
+            "value": "Tired Technique"
         }
     ]
 }
