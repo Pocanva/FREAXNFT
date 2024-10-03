@@ -1,43 +1,43 @@
 {
-    "name": "Freax #116",
+    "name": "Freax #3016",
     "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
-    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/116.png",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3016.png",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pink City"
+            "value": "PinkBlue"
         },
         {
             "trait_type": "Body",
-            "value": "Big Wounds"
+            "value": "Patches"
         },
         {
             "trait_type": "Head",
-            "value": "Brassiere"
+            "value": "Brown Thorns"
         },
         {
             "trait_type": "Clothes",
-            "value": "Panties on the Outside"
+            "value": "Pink Hoodie"
         },
         {
             "trait_type": "Left earring",
-            "value": "Nothing"
+            "value": "Black Nail"
         },
         {
             "trait_type": "Right earring",
-            "value": "Top Gold Rings"
-        },
-        {
-            "trait_type": "Rare attributes",
             "value": "Nothing"
         },
         {
+            "trait_type": "Rare attributes",
+            "value": "OLD Badge"
+        },
+        {
             "trait_type": "Mouth",
-            "value": "Like the Teenage Mutant Ninja Turtles Pearcing"
+            "value": "Rare Teeth"
         },
         {
             "trait_type": "Eyes",
-            "value": "Neon Eyes"
+            "value": "Reddened Capillaries"
         }
     ]
 }

@@ -1,43 +1,43 @@
 {
-    "name": "Freax #147",
+    "name": "Freax #3047",
     "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
-    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/147.png",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3047.png",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Purple City"
+            "value": "GreenOrange"
         },
         {
             "trait_type": "Body",
-            "value": "Purple Neon"
+            "value": "Common"
         },
         {
             "trait_type": "Head",
-            "value": "Fox Ears"
+            "value": "Sheriff's Hat"
         },
         {
             "trait_type": "Clothes",
-            "value": "Pink Bomber Jacket"
+            "value": "Purple Undershirt"
         },
         {
             "trait_type": "Left earring",
-            "value": "Gold Earring With a Cross"
+            "value": "Top Silver Rings"
         },
         {
             "trait_type": "Right earring",
-            "value": "Silver Earring With a Cross"
+            "value": "Two Gold Earrings"
         },
         {
             "trait_type": "Rare attributes",
-            "value": "Nothing"
+            "value": "Silver OLD Pendant"
         },
         {
             "trait_type": "Mouth",
-            "value": "Tongue"
+            "value": "Gap Between Teeth"
         },
         {
             "trait_type": "Eyes",
-            "value": "Anger"
+            "value": "Left Eye Patch"
         }
     ]
 }

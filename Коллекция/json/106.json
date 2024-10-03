@@ -1,7 +1,7 @@
 {
-    "name": "Freax #106",
+    "name": "Freax #3006",
     "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
-    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/106.png",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3006.png",
     "attributes": [
         {
             "trait_type": "Background",
@@ -9,19 +9,19 @@
         },
         {
             "trait_type": "Body",
-            "value": "Cyber Bones"
+            "value": "Tattoo"
         },
         {
             "trait_type": "Head",
-            "value": "Purple Mohawk"
+            "value": "Green Mohawk"
         },
         {
             "trait_type": "Clothes",
-            "value": "Pink Hoodie"
+            "value": "Ballerina's Tutu"
         },
         {
             "trait_type": "Left earring",
-            "value": "Black Cartilage"
+            "value": "Nothing"
         },
         {
             "trait_type": "Right earring",
@@ -29,15 +29,15 @@
         },
         {
             "trait_type": "Rare attributes",
-            "value": "Nothing"
+            "value": "OLD Badge"
         },
         {
             "trait_type": "Mouth",
-            "value": "Mustache"
+            "value": "Gap Between Teeth"
         },
         {
             "trait_type": "Eyes",
-            "value": "Beaten"
+            "value": "Dead"
         }
     ]
 }

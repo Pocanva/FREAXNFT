@@ -1,43 +1,43 @@
 {
-    "name": "Freax #126",
+    "name": "Freax #3026",
     "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
-    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/126.png",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3026.png",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue Hills"
+            "value": "GreenOrange Hills"
         },
         {
             "trait_type": "Body",
-            "value": "Youth Tattoo"
+            "value": "Hand Implant"
         },
         {
             "trait_type": "Head",
-            "value": "Panama"
+            "value": "Yellow Tousled Hair"
         },
         {
             "trait_type": "Clothes",
-            "value": "Multilayer Undershirt"
+            "value": "Cyber Raincoat"
         },
         {
             "trait_type": "Left earring",
-            "value": "Black Nail"
+            "value": "Two Gold Earrings"
         },
         {
             "trait_type": "Right earring",
-            "value": "Gold Earring"
+            "value": "Silver Earring With a Cross"
         },
         {
             "trait_type": "Rare attributes",
-            "value": "Nothing"
+            "value": "OLD Badge"
         },
         {
             "trait_type": "Mouth",
-            "value": "Like the Teenage Mutant Ninja Turtles Pearcing"
+            "value": "Lollipop"
         },
         {
             "trait_type": "Eyes",
-            "value": "Reddened Capillaries"
+            "value": "3D Glasses"
         }
     ]
 }

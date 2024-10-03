@@ -1,7 +1,7 @@
 {
-    "name": "Freax #108",
+    "name": "Freax #3008",
     "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
-    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/108.png",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3008.png",
     "attributes": [
         {
             "trait_type": "Background",
@@ -9,35 +9,35 @@
         },
         {
             "trait_type": "Body",
-            "value": "Purple Neon"
+            "value": "Common"
         },
         {
             "trait_type": "Head",
-            "value": "Cap Back"
+            "value": "Red Bandage"
         },
         {
             "trait_type": "Clothes",
-            "value": "Transparent Tshirt"
+            "value": "Denim Jacket"
         },
         {
             "trait_type": "Left earring",
-            "value": "Leaky Cartilage"
+            "value": "Two Gold Earrings"
         },
         {
             "trait_type": "Right earring",
-            "value": "Black Nail"
-        },
-        {
-            "trait_type": "Rare attributes",
             "value": "Nothing"
         },
         {
+            "trait_type": "Rare attributes",
+            "value": "OLD Badge"
+        },
+        {
             "trait_type": "Mouth",
-            "value": "Anger"
+            "value": "Excited"
         },
         {
             "trait_type": "Eyes",
-            "value": "Right Eye Patch"
+            "value": "Suspicion"
         }
     ]
 }

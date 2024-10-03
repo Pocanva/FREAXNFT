@@ -1,43 +1,43 @@
 {
-    "name": "Freax #115",
+    "name": "Freax #3015",
     "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
-    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/115.png",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3015.png",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pink City"
+            "value": "Blue Hills"
         },
         {
             "trait_type": "Body",
-            "value": "Neon Cells"
+            "value": "Wounds"
         },
         {
             "trait_type": "Head",
-            "value": "Yellow Tousled Hair"
+            "value": "Red Hair Styling"
         },
         {
             "trait_type": "Clothes",
-            "value": "Cyber Raincoat"
+            "value": "Pink Windbreaker"
         },
         {
             "trait_type": "Left earring",
-            "value": "Nail and Cartilage"
-        },
-        {
-            "trait_type": "Right earring",
-            "value": "Gold Earring With a Cross"
-        },
-        {
-            "trait_type": "Rare attributes",
             "value": "Nothing"
         },
         {
+            "trait_type": "Right earring",
+            "value": "Black Cartilage"
+        },
+        {
+            "trait_type": "Rare attributes",
+            "value": "OLD Badge"
+        },
+        {
             "trait_type": "Mouth",
-            "value": "Displeased smile"
+            "value": "Two Teeth"
         },
         {
             "trait_type": "Eyes",
-            "value": "Wild"
+            "value": "Cross eyed"
         }
     ]
 }

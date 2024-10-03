@@ -1,19 +1,19 @@
 {
-    "name": "Freax #135",
+    "name": "Freax #3035",
     "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
-    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/135.png",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3035.png",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Green Hills"
+            "value": "Purple City"
         },
         {
             "trait_type": "Body",
-            "value": "Neon Vertical"
+            "value": "Cyber Bones"
         },
         {
             "trait_type": "Head",
-            "value": "Flowers"
+            "value": "Cap Back"
         },
         {
             "trait_type": "Clothes",
@@ -21,23 +21,23 @@
         },
         {
             "trait_type": "Left earring",
-            "value": "Silver Earring With a Cross"
-        },
-        {
-            "trait_type": "Right earring",
-            "value": "Black Nail"
-        },
-        {
-            "trait_type": "Rare attributes",
             "value": "Nothing"
         },
         {
+            "trait_type": "Right earring",
+            "value": "Gold Earring"
+        },
+        {
+            "trait_type": "Rare attributes",
+            "value": "Silver OLD Pendant"
+        },
+        {
             "trait_type": "Mouth",
-            "value": "Toothless"
+            "value": "Silver Grillz"
         },
         {
             "trait_type": "Eyes",
-            "value": "Scared"
+            "value": "Neon Glasses"
         }
     ]
 }

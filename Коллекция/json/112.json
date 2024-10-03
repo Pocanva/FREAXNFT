@@ -1,23 +1,23 @@
 {
-    "name": "Freax #112",
+    "name": "Freax #3012",
     "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
-    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/112.png",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3012.png",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange City"
+            "value": "Green Hills"
         },
         {
             "trait_type": "Body",
-            "value": "Small Wounds"
+            "value": "Neon Cells"
         },
         {
             "trait_type": "Head",
-            "value": "White Undercut"
+            "value": "Black Shame"
         },
         {
             "trait_type": "Clothes",
-            "value": "Transparent Tshirt"
+            "value": "Panties on the Outside"
         },
         {
             "trait_type": "Left earring",
@@ -25,19 +25,19 @@
         },
         {
             "trait_type": "Right earring",
-            "value": "Nothing"
+            "value": "Top Gold Rings"
         },
         {
             "trait_type": "Rare attributes",
-            "value": "Nothing"
+            "value": "OLD Badge"
         },
         {
             "trait_type": "Mouth",
-            "value": "Smirk"
+            "value": "Open Smile"
         },
         {
             "trait_type": "Eyes",
-            "value": "Disco Glasses"
+            "value": "Hippie Glasses"
         }
     ]
 }

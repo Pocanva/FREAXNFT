@@ -1,43 +1,43 @@
 {
-    "name": "Freax #104",
+    "name": "Freax #3004",
     "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
-    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/104.png",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3004.png",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Purple Neon"
+            "value": "Green Neon"
         },
         {
             "trait_type": "Body",
-            "value": "Beard"
+            "value": "Patches"
         },
         {
             "trait_type": "Head",
-            "value": "Bandages"
+            "value": "Green Hair Forward"
         },
         {
             "trait_type": "Clothes",
-            "value": "Denim Vest"
+            "value": "Pink Windbreaker"
         },
         {
             "trait_type": "Left earring",
-            "value": "Nothing"
+            "value": "Leaky Cartilage"
         },
         {
             "trait_type": "Right earring",
-            "value": "Nail and Cartilage"
-        },
-        {
-            "trait_type": "Rare attributes",
             "value": "Nothing"
         },
         {
+            "trait_type": "Rare attributes",
+            "value": "OLD Badge"
+        },
+        {
             "trait_type": "Mouth",
-            "value": "Open Mouth"
+            "value": "Open Smile"
         },
         {
             "trait_type": "Eyes",
-            "value": "Rolls His Eyes"
+            "value": "Looks Carefully"
         }
     ]
 }
