@@ -1,0 +1,44 @@
+{
+    "name": "Technique",
+    "description": "Besides being a DJ, I am also... A stand-up comedian, a hip-hop artist, a face-smasher...",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3062.mp4",
+    "content_type": "video/mp4",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "RAVE"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Technique"
+        },
+        {
+            "trait_type": "Head",
+            "value": "C.P. Goggle Hat"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Burberry"
+        },
+        {
+            "trait_type": "Left earring",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Right earring",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Rare attributes",
+            "value": "LEGENDARY"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoking"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tired Technique"
+        }
+    ]
+}
