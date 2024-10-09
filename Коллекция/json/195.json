@@ -1,43 +1,43 @@
 {
-    "name": "Freax #195",
+  "name": "Freax #3094",
     "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
-    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/195.png",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3096.png",
     "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "GreenBlue"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Neon Cells"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Fire"
-        },
-        {
-            "trait_type": "Clothes",
-            "value": "Cyber Raincoat"
-        },
-        {
-            "trait_type": "Left earring",
-            "value": "Nothing"
-        },
-        {
-            "trait_type": "Right earring",
-            "value": "Gold Earring"
-        },
-        {
-            "trait_type": "Rare attributes",
-            "value": "Nothing"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Mustache"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Bored"
-        }
-    ]
+    {
+      "trait_type": "Background",
+      "value": "Orange City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Big Wounds"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cassette Recorder"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Left earring",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Right earring",
+      "value": "Leaky Cartilage"
+    },
+    {
+      "trait_type": "Rare attributes",
+      "value": "HODL FUCK"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Two Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hippie Glasses"
+    }
+  ]
 }

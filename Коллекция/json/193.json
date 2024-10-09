@@ -1,43 +1,43 @@
 {
-    "name": "Freax #193",
+  "name": "Freax #3092",
     "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
-    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/193.png",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3094.png",
     "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "GreenBlue"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Big Wounds"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Flowers"
-        },
-        {
-            "trait_type": "Clothes",
-            "value": "Apron"
-        },
-        {
-            "trait_type": "Left earring",
-            "value": "Nothing"
-        },
-        {
-            "trait_type": "Right earring",
-            "value": "Nothing"
-        },
-        {
-            "trait_type": "Rare attributes",
-            "value": "Nothing"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Tongue"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Yakuza Glasses"
-        }
-    ]
+    {
+      "trait_type": "Background",
+      "value": "Pink City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Forearm Implant"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Hair Forward"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Left earring",
+      "value": "Leaky Cartilage"
+    },
+    {
+      "trait_type": "Right earring",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Rare attributes",
+      "value": "HODL FUCK"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Beaten"
+    }
+  ]
 }

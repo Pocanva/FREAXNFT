@@ -1,43 +1,43 @@
 {
-    "name": "Freax #190",
+  "name": "Freax #3089",
     "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
-    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/190.png",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3091.png",
     "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Purple Neon"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Forearm Implant"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Black Shame"
-        },
-        {
-            "trait_type": "Clothes",
-            "value": "Pink Hoodie"
-        },
-        {
-            "trait_type": "Left earring",
-            "value": "Nothing"
-        },
-        {
-            "trait_type": "Right earring",
-            "value": "Two Gold Earrings"
-        },
-        {
-            "trait_type": "Rare attributes",
-            "value": "Nothing"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Patrick's Tooth"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Right Eye Patch"
-        }
-    ]
+    {
+      "trait_type": "Background",
+      "value": "GreenOrange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Youth Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Hair Forward"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Left earring",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Right earring",
+      "value": "Top Gold Rings"
+    },
+    {
+      "trait_type": "Rare attributes",
+      "value": "HODL FUCK"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouting Lip Piercing"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    }
+  ]
 }
