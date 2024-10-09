@@ -1,43 +1,43 @@
 {
-    "name": "Freax #168",
+  "name": "Freax #3067",
     "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
-    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/168.png",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3069.png",
     "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "GreenOrange Hills"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Tattoo"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Green Mohawk"
-        },
-        {
-            "trait_type": "Clothes",
-            "value": "Pink Bomber Jacket"
-        },
-        {
-            "trait_type": "Left earring",
-            "value": "Nothing"
-        },
-        {
-            "trait_type": "Right earring",
-            "value": "Black Nail"
-        },
-        {
-            "trait_type": "Rare attributes",
-            "value": "Nothing"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Common"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Badly Beaten"
-        }
-    ]
+    {
+      "trait_type": "Background",
+      "value": "Pink City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Big Wounds"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Purple Undershirt"
+    },
+    {
+      "trait_type": "Left earring",
+      "value": "Top Silver Rings"
+    },
+    {
+      "trait_type": "Right earring",
+      "value": "Gold Earring With a Cross"
+    },
+    {
+      "trait_type": "Rare attributes",
+      "value": "NOC"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ordinary face"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    }
+  ]
 }

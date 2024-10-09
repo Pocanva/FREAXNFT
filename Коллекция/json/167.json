@@ -1,43 +1,43 @@
 {
-    "name": "Freax #167",
+  "name": "Freax #3066",
     "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
-    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/167.png",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3068.png",
     "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Green Neon"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Cyber"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Red Shame"
-        },
-        {
-            "trait_type": "Clothes",
-            "value": "Ballerina's Tutu"
-        },
-        {
-            "trait_type": "Left earring",
-            "value": "Nothing"
-        },
-        {
-            "trait_type": "Right earring",
-            "value": "Black Cartilage"
-        },
-        {
-            "trait_type": "Rare attributes",
-            "value": "Nothing"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Toothless"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Scared"
-        }
-    ]
+    {
+      "trait_type": "Background",
+      "value": "GreenOrange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Neon Vertical"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Small dreadlocks"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Army Jacket"
+    },
+    {
+      "trait_type": "Left earring",
+      "value": "Nail and Cartilage"
+    },
+    {
+      "trait_type": "Right earring",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Rare attributes",
+      "value": "NOC"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Silver Grillz"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Visor"
+    }
+  ]
 }
