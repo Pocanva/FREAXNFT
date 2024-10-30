@@ -1,27 +1,27 @@
 {
-    "name": "Freax #198",
-    "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
-    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/198.png",
+    "name": "Art",
+    "description": "...",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/3099.gif",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange Hills"
+            "value": "Amusement Park"
         },
         {
             "trait_type": "Body",
-            "value": "Forearm Implant"
+            "value": "Art the Clown"
         },
         {
             "trait_type": "Head",
-            "value": "Brown Thorns"
+            "value": "Art Makeup"
         },
         {
             "trait_type": "Clothes",
-            "value": "Pink Hoodie"
+            "value": "Art Clown Jumpsuit"
         },
         {
             "trait_type": "Left earring",
-            "value": "Nail and Cartilage"
+            "value": "Nothing"
         },
         {
             "trait_type": "Right earring",
@@ -29,15 +29,15 @@
         },
         {
             "trait_type": "Rare attributes",
-            "value": "Nothing"
+            "value": "LEGENDARY"
         },
         {
             "trait_type": "Mouth",
-            "value": "Strong Resentment"
+            "value": "Art Smile"
         },
         {
             "trait_type": "Eyes",
-            "value": "Disco Glasses"
+            "value": "Art Evil Eyes"
         }
     ]
 }
