@@ -1,43 +1,43 @@
 {
-    "name": "Freax #199",
-    "description": "Yo, I'll do anything for you!\nWait, I forgot. Are you my boss already or do you want to be?",
-    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/199.png",
+    "name": "Chaos Jason",
+    "description": "...",
+    "image": "https://raw.githubusercontent.com/Pocanva/FREAXNFT/refs/heads/main/Коллекция/images/4000.gif",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Purple City"
+            "value": "Crystal Lake"
         },
         {
             "trait_type": "Body",
-            "value": "Neon Cells"
+            "value": "Jason Orc"
         },
         {
             "trait_type": "Head",
-            "value": "Tails"
+            "value": "Jason Mask"
         },
         {
             "trait_type": "Clothes",
-            "value": "Army Jacket"
+            "value": "Jason Jacket"
         },
         {
             "trait_type": "Left earring",
-            "value": "Nail and Cartilage"
+            "value": "Orc Ear"
         },
         {
             "trait_type": "Right earring",
-            "value": "Nothing"
+            "value": "Orc Ear"
         },
         {
             "trait_type": "Rare attributes",
-            "value": "Nothing"
+            "value": "LEGENDARY"
         },
         {
             "trait_type": "Mouth",
-            "value": "Braces"
+            "value": "Jason Mouth"
         },
         {
             "trait_type": "Eyes",
-            "value": "Dead"
+            "value": "Jason Eye"
         }
     ]
 }
